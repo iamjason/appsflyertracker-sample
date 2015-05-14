@@ -1,0 +1,10 @@
+PODS:
+  - AppsFlyer-SDK (2.5.3.14)
+
+DEPENDENCIES:
+  - AppsFlyer-SDK
+
+SPEC CHECKSUMS:
+  AppsFlyer-SDK: 692ddd12c430e5e541fd351ad0452eaef63a353e
+
+COCOAPODS: 0.37.1
